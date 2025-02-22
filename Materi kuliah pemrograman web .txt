@@ -1,0 +1,9 @@
+Materi kuliah pemrograman web 
+	Memahami perintah dasar HTML, seperti membuat daftar, tabel, formulir, dan hyperlink
+	Memahami penggunaan frame pada HTML
+	Memahami pewarnaan dan background menggunakan CSS
+	Memahami format text dan font menggunakan CSS
+	Memahami table menggunakan CSS
+	Memahami transitions menggunakan CSS
+	Memahami animasi menggunakan CSS
+	Memahami navigagion bar, menu dropdowns, dan button menggunakan CSS
